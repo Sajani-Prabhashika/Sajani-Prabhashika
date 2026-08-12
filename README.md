@@ -1,8 +1,8 @@
 # Hi, I'm Sajani Prabhashika 👋
 
-### Software Engineering Student | Aspiring Backend Developer
+### Software Engineering Student
 
-I'm a Software Engineering student passionate about building reliable, scalable, and user-focused software. I'm particularly interested in **backend development, server-side applications, APIs, databases, and software architecture**.
+I'm a Software Engineering student passionate about building reliable, scalable, and user-focused software.
 
 Currently, I'm expanding my skills in backend technologies while working on real-world projects and continuously improving my problem-solving and development skills.
 
@@ -11,9 +11,7 @@ Currently, I'm expanding my skills in backend technologies while working on real
 ## 👩‍💻 About Me
 
 * 🎓 Software Engineering student at **IIT**
-* 💻 Aspiring **Backend Developer**
 * 🌱 Currently learning and improving my skills in **Java, .NET, SQL, REST APIs, and backend development**
-* 🔧 Enjoy working with databases, APIs, and server-side applications
 * 📱 Experience developing applications with **Flutter and React Native**
 * 🐳 Exploring **Docker** and modern development workflows
 * 🚀 Interested in building practical software solutions and learning new technologies
@@ -113,15 +111,6 @@ I'm particularly interested in becoming stronger in **backend architecture, API 
 My goal is to become a skilled **Backend Developer** and build software that is reliable, maintainable, and scalable.
 
 I'm currently focused on strengthening my fundamentals while gaining experience through academic projects, collaborative development, and real-world software projects.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sajani-Prabhashika&show_icons=true&theme=default&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sajani-Prabhashika&layout=compact&hide_border=true" height="165"/>
-</p>
 
 ---
 
