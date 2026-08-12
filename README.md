@@ -1,21 +1,10 @@
-# Hi, I'm Sajani Prabhashika 👋
+# Hi, I'm Sajani Prabhashika
 
 ### Software Engineering Student
 
 I'm a Software Engineering student passionate about building reliable, scalable, and user-focused software.
 
 Currently, I'm expanding my skills in backend technologies while working on real-world projects and continuously improving my problem-solving and development skills.
-
----
-
-## 👩‍💻 About Me
-
-* 🎓 Software Engineering student at **IIT**
-* 🌱 Currently learning and improving my skills in **Java, .NET, SQL, REST APIs, and backend development**
-* 📱 Experience developing applications with **Flutter and React Native**
-* 🐳 Exploring **Docker** and modern development workflows
-* 🚀 Interested in building practical software solutions and learning new technologies
-* 🤝 Enjoy collaborating with teams and contributing to software projects
 
 ---
 
@@ -69,7 +58,3 @@ Currently, I'm expanding my skills in backend technologies while working on real
 </p>
 
 I'm always interested in **learning, collaborating, building projects, and connecting with other developers**.
-
----
-
-⭐ *Thanks for visiting my profile!*
