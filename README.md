@@ -1,16 +1,36 @@
 ## Hi there 👋
 
-<!--
-**Sajani-Prabhashika/Sajani-Prabhashika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# I'm Sajani Prabhashika
 
-Here are some ideas to get you started:
+🎓 Software Engineering Student  
+💻 Aspiring Backend Developer  
+🌱 Currently learning Java, .NET, SQL & React  
+🚀 Interested in Mobile Development and Software Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+
+- Java
+- C#
+- .NET
+- SQL
+- React
+- Flutter
+- Git & GitHub
+- Docker
+
+## 🚀 Projects
+
+- FixIt – Flutter Booking Application
+- OneGov Application
+
+## 🌱 Currently Learning
+
+- Advanced Server-Side Web Development
+- Backend Development
+- REST APIs
+- Database Design
+
+## 📫 Connect With Me
+
+- GitHub: [Sajani-Prabhashika](https://github.com/Sajani-Prabhashika)
+- LinkedIn: 
