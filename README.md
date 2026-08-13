@@ -8,7 +8,7 @@ Currently, I'm expanding my skills in backend technologies while working on real
 
 ---
 
-## 🛠️ Technologies & Tools
+##  Technologies & Tools
 
 ### Languages
 
