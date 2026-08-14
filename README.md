@@ -1,7 +1,5 @@
 # Hi, I'm Sajani Prabhashika
 
-### Software Engineering Student
-
 I'm a Software Engineering student passionate about building reliable, scalable, and user-focused software.
 
 Currently, I'm expanding my skills in backend technologies while working on real-world projects and continuously improving my problem-solving and development skills.
